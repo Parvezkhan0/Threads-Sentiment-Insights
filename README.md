@@ -1,4 +1,4 @@
-# Threadfluence: Unraveling the Meteoric Ascent of the Instagram-backed Social Phenomenon
+# Threadfluence: Unraveling  Meteoric Ascent of the Instagram-backed Social Phenomenon
 
 ## Overview
 Dive deep into the remarkable journey of Threadfluence, an Instagram-backed app challenging giants like X (formerly known as Twitter). This project investigates the intricate factors shaping user ratings and conducts sentiment analysis on reviews from app stores and Google Play..
