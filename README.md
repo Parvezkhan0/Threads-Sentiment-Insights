@@ -9,7 +9,7 @@ Threadfluence stormed onto the scene, garnering millions of downloads in mere ho
 ## Key Features
 - Rapid Ascent Analysis
 - Unveiling User Rating Drivers
-- Sentiment Deciphering of App Store and Google Play Reviews
+- Sentiment Deciphering of App Store & Google Play Reviews
 
 ## How to Engage
 1. Clone this repository to your local machine.
